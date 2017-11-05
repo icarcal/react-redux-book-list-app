@@ -1,4 +1,4 @@
-# Tinder like search app with react and redux
+# Book list app with react and redux
 
 ## Lessons from [Udemy](https://www.udemy.com/react-redux/) with [StephenGrider](https://github.com/StephenGrider/)
 
@@ -12,7 +12,7 @@
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/icarcal/react-redux-tinder-like-apparchive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/icarcal/react-redux-book-list-app/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
